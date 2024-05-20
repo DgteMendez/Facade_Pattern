@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Facade_Pattern",
+			"Path": "C:\\Users\\VICTUS hp\\Documents\\Unreal Projects\\Facade_Pattern\\Source\\Facade_Pattern.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Facade_PatternEditor",
+			"Path": "C:\\Users\\VICTUS hp\\Documents\\Unreal Projects\\Facade_Pattern\\Source\\Facade_PatternEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

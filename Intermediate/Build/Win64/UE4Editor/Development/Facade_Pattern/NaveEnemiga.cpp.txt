@@ -1,0 +1,3 @@
+C:\Users\VICTUS hp\Documents\Unreal Projects\Facade_Pattern\Intermediate\Build\Win64\UE4Editor\Development\Facade_Pattern\Definitions.Facade_Pattern.h
+C:\Users\VICTUS hp\Documents\Unreal Projects\Facade_Pattern\Source\Facade_Pattern\NaveEnemiga.h
+C:\Users\VICTUS hp\Documents\Unreal Projects\Facade_Pattern\Intermediate\Build\Win64\UE4Editor\Inc\Facade_Pattern\NaveEnemiga.generated.h

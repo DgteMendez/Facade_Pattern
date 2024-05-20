@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Facade_Pattern.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{A958F0F9-C54A-48EC-84B8-5B4C34400B2F}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Facade_Pattern.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Facade_PatternEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{0207BB7D-058A-42F5-AC68-82BB6DCD12ED}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Facade_Pattern">
+      <UniqueIdentifier>{A3B495AD-E611-4541-A13E-6BD8E4524B39}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Facade_Pattern\ComponenteMovimiento1.cpp">
+      <Filter>Source\Facade_Pattern</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Facade_Pattern\ComponenteMovimiento1.h">
+      <Filter>Source\Facade_Pattern</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Facade_Pattern\Enemigos_Facade.cpp">
+      <Filter>Source\Facade_Pattern</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Facade_Pattern\Enemigos_Facade.h">
+      <Filter>Source\Facade_Pattern</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Facade_Pattern\Facade_Nivel.cpp">
+      <Filter>Source\Facade_Pattern</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Facade_Pattern\Facade_Nivel.h">
+      <Filter>Source\Facade_Pattern</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\Facade_Pattern\Facade_Pattern.Build.cs">
+      <Filter>Source\Facade_Pattern</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Facade_Pattern\Facade_Pattern.cpp">
+      <Filter>Source\Facade_Pattern</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Facade_Pattern\Facade_Pattern.h">
+      <Filter>Source\Facade_Pattern</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Facade_Pattern\Facade_PatternGameMode.cpp">
+      <Filter>Source\Facade_Pattern</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Facade_Pattern\Facade_PatternGameMode.h">
+      <Filter>Source\Facade_Pattern</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Facade_Pattern\Facade_PatternPawn.cpp">
+      <Filter>Source\Facade_Pattern</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Facade_Pattern\Facade_PatternPawn.h">
+      <Filter>Source\Facade_Pattern</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Facade_Pattern\Facade_PatternProjectile.cpp">
+      <Filter>Source\Facade_Pattern</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Facade_Pattern\Facade_PatternProjectile.h">
+      <Filter>Source\Facade_Pattern</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Facade_Pattern\Facade_Unity.cpp">
+      <Filter>Source\Facade_Pattern</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Facade_Pattern\Facade_Unity.h">
+      <Filter>Source\Facade_Pattern</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Facade_Pattern\NaveEnemiga.cpp">
+      <Filter>Source\Facade_Pattern</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Facade_Pattern\NaveEnemiga.h">
+      <Filter>Source\Facade_Pattern</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Facade_Pattern\NaveEnemigaCaza.cpp">
+      <Filter>Source\Facade_Pattern</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Facade_Pattern\NaveEnemigaCaza.h">
+      <Filter>Source\Facade_Pattern</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Facade_Pattern\NaveEnemigaTransporte.cpp">
+      <Filter>Source\Facade_Pattern</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Facade_Pattern\NaveEnemigaTransporte.h">
+      <Filter>Source\Facade_Pattern</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

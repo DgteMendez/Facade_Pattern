@@ -1,0 +1,7 @@
+C:\Users\VICTUS hp\Documents\Unreal Projects\Facade_Pattern\Intermediate\Build\Win64\UE4Editor\Development\Facade_Pattern\Definitions.Facade_Pattern.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\VICTUS hp\Documents\Unreal Projects\Facade_Pattern\Source\Facade_Pattern/Enemigos_Facade.h
+C:\Users\VICTUS hp\Documents\Unreal Projects\Facade_Pattern\Source\Facade_Pattern\NaveEnemiga.h
+C:\Users\VICTUS hp\Documents\Unreal Projects\Facade_Pattern\Intermediate\Build\Win64\UE4Editor\Inc\Facade_Pattern\NaveEnemiga.generated.h
+C:\Users\VICTUS hp\Documents\Unreal Projects\Facade_Pattern\Intermediate\Build\Win64\UE4Editor\Inc\Facade_Pattern\Enemigos_Facade.generated.h

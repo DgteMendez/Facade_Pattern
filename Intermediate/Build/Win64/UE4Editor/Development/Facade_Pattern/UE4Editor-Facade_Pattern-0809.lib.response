@@ -1,0 +1,33 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Facade_Pattern-0809.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\VICTUS hp\Documents\Unreal Projects\Facade_Pattern\Intermediate\Build\Win64\Facade_PatternEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\VICTUS hp\Documents\Unreal Projects\Facade_Pattern\Intermediate\Build\Win64\UE4Editor\Development\Facade_Pattern\ComponenteMovimiento1.cpp.obj"
+"C:\Users\VICTUS hp\Documents\Unreal Projects\Facade_Pattern\Intermediate\Build\Win64\UE4Editor\Development\Facade_Pattern\Enemigos_Facade.cpp.obj"
+"C:\Users\VICTUS hp\Documents\Unreal Projects\Facade_Pattern\Intermediate\Build\Win64\UE4Editor\Development\Facade_Pattern\Facade_Nivel.cpp.obj"
+"C:\Users\VICTUS hp\Documents\Unreal Projects\Facade_Pattern\Intermediate\Build\Win64\UE4Editor\Development\Facade_Pattern\Facade_Pattern.cpp.obj"
+"C:\Users\VICTUS hp\Documents\Unreal Projects\Facade_Pattern\Intermediate\Build\Win64\UE4Editor\Development\Facade_Pattern\Facade_PatternGameMode.cpp.obj"
+"C:\Users\VICTUS hp\Documents\Unreal Projects\Facade_Pattern\Intermediate\Build\Win64\UE4Editor\Development\Facade_Pattern\Facade_PatternPawn.cpp.obj"
+"C:\Users\VICTUS hp\Documents\Unreal Projects\Facade_Pattern\Intermediate\Build\Win64\UE4Editor\Development\Facade_Pattern\Facade_PatternProjectile.cpp.obj"
+"C:\Users\VICTUS hp\Documents\Unreal Projects\Facade_Pattern\Intermediate\Build\Win64\UE4Editor\Development\Facade_Pattern\Facade_Unity.cpp.obj"
+"C:\Users\VICTUS hp\Documents\Unreal Projects\Facade_Pattern\Intermediate\Build\Win64\UE4Editor\Development\Facade_Pattern\NaveEnemiga.cpp.obj"
+"C:\Users\VICTUS hp\Documents\Unreal Projects\Facade_Pattern\Intermediate\Build\Win64\UE4Editor\Development\Facade_Pattern\NaveEnemigaCaza.cpp.obj"
+"C:\Users\VICTUS hp\Documents\Unreal Projects\Facade_Pattern\Intermediate\Build\Win64\UE4Editor\Development\Facade_Pattern\NaveEnemigaTransporte.cpp.obj"
+"C:\Users\VICTUS hp\Documents\Unreal Projects\Facade_Pattern\Intermediate\Build\Win64\UE4Editor\Development\Facade_Pattern\ComponenteMovimiento1.gen.cpp.obj"
+"C:\Users\VICTUS hp\Documents\Unreal Projects\Facade_Pattern\Intermediate\Build\Win64\UE4Editor\Development\Facade_Pattern\Enemigos_Facade.gen.cpp.obj"
+"C:\Users\VICTUS hp\Documents\Unreal Projects\Facade_Pattern\Intermediate\Build\Win64\UE4Editor\Development\Facade_Pattern\Facade_Nivel.gen.cpp.obj"
+"C:\Users\VICTUS hp\Documents\Unreal Projects\Facade_Pattern\Intermediate\Build\Win64\UE4Editor\Development\Facade_Pattern\Facade_Pattern.init.gen.cpp.obj"
+"C:\Users\VICTUS hp\Documents\Unreal Projects\Facade_Pattern\Intermediate\Build\Win64\UE4Editor\Development\Facade_Pattern\Facade_PatternGameMode.gen.cpp.obj"
+"C:\Users\VICTUS hp\Documents\Unreal Projects\Facade_Pattern\Intermediate\Build\Win64\UE4Editor\Development\Facade_Pattern\Facade_PatternPawn.gen.cpp.obj"
+"C:\Users\VICTUS hp\Documents\Unreal Projects\Facade_Pattern\Intermediate\Build\Win64\UE4Editor\Development\Facade_Pattern\Facade_PatternProjectile.gen.cpp.obj"
+"C:\Users\VICTUS hp\Documents\Unreal Projects\Facade_Pattern\Intermediate\Build\Win64\UE4Editor\Development\Facade_Pattern\Facade_Unity.gen.cpp.obj"
+"C:\Users\VICTUS hp\Documents\Unreal Projects\Facade_Pattern\Intermediate\Build\Win64\UE4Editor\Development\Facade_Pattern\NaveEnemiga.gen.cpp.obj"
+"C:\Users\VICTUS hp\Documents\Unreal Projects\Facade_Pattern\Intermediate\Build\Win64\UE4Editor\Development\Facade_Pattern\NaveEnemigaCaza.gen.cpp.obj"
+"C:\Users\VICTUS hp\Documents\Unreal Projects\Facade_Pattern\Intermediate\Build\Win64\UE4Editor\Development\Facade_Pattern\NaveEnemigaTransporte.gen.cpp.obj"
+"C:\Users\VICTUS hp\Documents\Unreal Projects\Facade_Pattern\Intermediate\Build\Win64\UE4Editor\Development\Facade_Pattern\Default.rc2.res"
+/OUT:"C:\Users\VICTUS hp\Documents\Unreal Projects\Facade_Pattern\Intermediate\Build\Win64\UE4Editor\Development\Facade_Pattern\UE4Editor-Facade_Pattern-0809.lib"
